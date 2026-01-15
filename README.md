@@ -77,20 +77,6 @@ The best-performing model was selected through threshold tuning and F1-score opt
 
 ---
 
-## 📄 Full Report
-
-The report includes:
-
-* Motivation and problem framing
-* Exploratory data analysis insights and class distribution
-* Feature engineering strategies
-* In-depth resampling method comparison
-* Model evaluation and threshold tuning
-* Metric interpretation and real-world considerations
-
-
----
-
 ## Project Structure
 
 ```
